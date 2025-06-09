@@ -1,12 +1,6 @@
 🚗 Azure Automated ML: Chicago Parking Ticket Payment Prediction  
 ## Classification
 
-## 🔗 Azure ML Job Output
-
-To view the project details, model summary, and results on Azure ML, check out the repository:
-
-👉 [GitHub Repo](https://github.com/iman-ezatfar/Azure-Auto-ML-Chicago-Ticket)
-
 
 ## Azure ML Screenshot :![Screenshot 2025-06-08 200250](https://github.com/user-attachments/assets/c54d7b34-331e-471d-a486-cf5cd63dceba)
 
