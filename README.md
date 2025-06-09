@@ -1,4 +1,4 @@
-🚗 Azure Automated ML: Chicago Parking Ticket Payment Prediction  
+ Azure Automated ML: Chicago Parking Ticket Payment Prediction  
 ## Classification
 
 
@@ -8,20 +8,20 @@
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 This project uses **Azure**'s **Automated ML (AutoML)** platform to predict whether a person will pay a Chicago parking ticket based on various features. The classification task is aimed at improving city collection strategies and understanding factors contributing to unpaid violations.
 
 ---
 
-## ❓ Business Problem
+##  Business Problem
 
 - Can we predict if a parking ticket will remain **outstanding** or get **paid**?
 - Which algorithms best classify ticket payment behavior?
 
 ---
 
-## ⚙️ Project Configuration
+##  Project Configuration
 
 | Parameter                     | Value                         |
 |------------------------------|-------------------------------|
@@ -37,7 +37,7 @@ This project uses **Azure**'s **Automated ML (AutoML)** platform to predict whet
 
 ---
 
-## 🧪 Best Model Summary
+##  Best Model Summary
 
 | Metric               | Value                                       |
 |----------------------|---------------------------------------------|
@@ -46,11 +46,11 @@ This project uses **Azure**'s **Automated ML (AutoML)** platform to predict whet
 | **Accuracy (approx)**| 75%                                         |
 | **Deployment Status**| Ready to deploy                             |
 
-> ✅ **VotingEnsemble** model provided the most robust performance, effectively combining multiple boosted classifiers.
+>  **VotingEnsemble** model provided the most robust performance, effectively combining multiple boosted classifiers.
 
 ---
 
-## 🧠 Tools and Techniques Used
+##  Tools and Techniques Used
 
 - **Azure** Machine Learning Studio  
 - Automated ML Classification  
@@ -61,7 +61,7 @@ This project uses **Azure**'s **Automated ML (AutoML)** platform to predict whet
 
 ---
 
-## 📎 Clone This Repository
+##  Clone This Repository
 
 ```Using bash
 # Using HTTPS
